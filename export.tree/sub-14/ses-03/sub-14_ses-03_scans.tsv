@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-14_ses-03_task-stim_run-001_cbv.nii.gz	2021-03-01T12:11:33.597500	n/a	096718cb
+func/sub-14_ses-03_task-stim_run-002_cbv.nii.gz	2021-03-01T12:26:39.180000	n/a	957b0614
+anat/sub-14_ses-03_acq-highres_run-001_inv-1_part-mag_MP2RAGE.nii.gz	2021-03-01T12:47:08.527500	n/a	0661e2ee
+anat/sub-14_ses-03_acq-highres_run-001_inv-2_part-mag_MP2RAGE.nii.gz	2021-03-01T12:47:10.385000	n/a	e956c177
